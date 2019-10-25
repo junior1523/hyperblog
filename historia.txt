@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 hola me llamo junior antonio coronacion mendoza
 tengo 21 años
 vivo en perú
 xd 
+=======
+hola me llamo junior antonio coronacion mendoza
+tengo 21 años
+vivo en perú
+xd 
+>>>>>>> 4adafd99ec8b5721a7c8508d7f3da1610355d9a5
 xd
